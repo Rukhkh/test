@@ -48,9 +48,9 @@
             "label": "Jimaku (Integrated)"
           },
           {
-           "value": "subdlSource",
-           "label": "subdl (Integrated)"
-          }
+            "value": "subdlSource",
+            "label": "subdl (Integrated)"
+          },
           {
             "value": "animetosho",
             "label": "AnimeTosho"
@@ -446,9 +446,9 @@
         "label": "Jimaku API Key"
       },
       {
-      "type": "text",
-       "name": "subdlKey",
-       "label": "subdl API Key"
+        "type": "text",
+        "name": "subdlKey",
+        "label": "subdl API Key"
       },
       {
         "type": "select",

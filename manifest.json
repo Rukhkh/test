@@ -2,7 +2,7 @@
   "id": "subtitle-engine-stable",
   "name": "Subtitle Engine (subdl)",
   "version": "1.2.0",
-  "manifestURI": "https://raw.githubusercontent.com/jose-l-martins/seanime-subtitle-engine/main/subtitle-engine-stable/m.json",
+  "manifestURI": "https://raw.githubusercontent.com/Rukhkh/test/refs/heads/main/manifest.json",
   "language": "typescript",
   "type": "plugin",
   "description": "Stable fork maintained by jose-l-martins.",
